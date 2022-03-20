@@ -1,13 +1,13 @@
 name: emoji_regex
 description: emoji-regex offers a regular expression to match all emoji symbols and sequences (including textual representations of emoji) as per the Unicode Standard.
-version: 0.0.1
-publish_to: https://pub.dev
+version: 0.0.2
+#publish_to: https://pub.dev
 homepage: https://github.com/wittyneko/emoji_regex
 repository: https://github.com/wittyneko/emoji_regex
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
