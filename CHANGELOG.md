@@ -1,3 +1,7 @@
+## 0.0.3
+
+* remove dependency of Flutter SDK
+ 
 ## 0.0.2
 
 * support null safety
