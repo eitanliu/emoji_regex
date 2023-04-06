@@ -1,6 +1,6 @@
 name: emoji_regex
 description: emoji-regex offers a regular expression to match all emoji symbols and sequences (including textual representations of emoji) as per the Unicode Standard.
-version: 0.0.3
+version: 0.0.4
 #publish_to: https://pub.dev
 homepage: https://github.com/wittyneko/emoji_regex
 repository: https://github.com/wittyneko/emoji_regex

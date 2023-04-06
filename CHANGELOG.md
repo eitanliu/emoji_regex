@@ -1,3 +1,7 @@
+## 0.0.4
+
+* keep up with npm emoji-regex 10.2.1
+
 ## 0.0.3
 
 * remove dependency of Flutter SDK
